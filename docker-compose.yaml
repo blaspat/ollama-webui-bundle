@@ -1,4 +1,4 @@
-name: Ollama Web UI Bundled
+name: ollama-webui-bundled
 services:
   ollama:
     volumes:
